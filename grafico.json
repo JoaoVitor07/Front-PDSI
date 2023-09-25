@@ -1,0 +1,107 @@
+{
+  "Sem perigo de desistencia": {
+    "qtd": 1546,
+    "alunos": [
+      {
+        "matricula": "1111111"
+      },
+        {
+        "matricula": "2222222"
+      },
+        {
+        "matricula": "4444444"
+      },
+        {
+        "matricula": "3333333"
+      },
+        {
+        "matricula": "555555"
+      },
+        {
+        "matricula": "6666666"
+      },
+        {
+        "matricula": "7777777"
+      },
+        {
+        "matricula": "88888888"
+      },
+        {
+        "matricula": "9887767867699"
+      },
+        {
+        "matricula": "101010101010"
+      }
+    ]
+  },
+  "Com perigo de desistencia": {
+     "qtd": 987,
+   "alunos": [
+      {
+        "matricula": "1111111"
+      },
+        {
+        "matricula": "2222222"
+      },
+        {
+        "matricula": "4444444"
+      },
+        {
+        "matricula": "3333333"
+      },
+        {
+        "matricula": "555555"
+      },
+        {
+        "matricula": "6666666"
+      },
+        {
+        "matricula": "7777777"
+      },
+        {
+        "matricula": "88888888"
+      },
+        {
+        "matricula": "99999999"
+      },
+        {
+        "matricula": "111111"
+      }
+    ]
+  },
+  "Normal": {
+     "qtd": 4599,
+     "alunos": [
+      {
+        "matricula": "1111111"
+      },
+        {
+        "matricula": "2222222"
+      },
+        {
+        "matricula": "4444444"
+      },
+        {
+        "matricula": "3333333"
+      },
+        {
+        "matricula": "555555"
+      },
+        {
+        "matricula": "6666666"
+      },
+        {
+        "matricula": "7777777"
+      },
+        {
+        "matricula": "88888888"
+      },
+        {
+        "matricula": "99999999"
+      },
+        {
+        "matricula": "101010101010"
+      }
+    ]
+  }
+}
